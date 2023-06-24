@@ -12,7 +12,7 @@ const Article = ({ imgUrl, date, text }) => {
           <p>{date}</p>
           <h3>{text}</h3>
         </div>
-        <p  onClick={() => window.location = 'https://meta2-8bmc.vercel.app/'}>View</p>
+        <p  onClick={() => window.location = 'https://link.medium.com/qwAxS8ytTAb'}>View</p>
       </div>
   </div>
   );
