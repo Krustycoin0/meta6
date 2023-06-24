@@ -11,10 +11,10 @@ const Blog = () => {
         </div>
         <div className="gpt3__blog-container">
           <div className="gpt3__blog-container_groupA">
-            <Article imgUrl={blog01} date="Sep 26, 2021" text="What is NFT and its collections ?" />
+            <Article imgUrl={blog01} date="Sep 26, 2021" text="Visit Lisprocoin metaverse" />
           </div>
           <div className="gpt3__blog-container_groupB">
-            <Article imgUrl={blog02} date="Sep 26, 2021" text="Metaverse is the future. Let us exlore how it is?" />
+            <Article imgUrl={blog02} date="Sep 26, 2021" text="Buy Lisprocoin presale" />
             <Article imgUrl={blog03} date="Sep 26, 2021" text="What is Web3.0?" />
             <Article imgUrl={blog04} date="Sep 26, 2021" text="What is future?" />
             <Article imgUrl={blog05} date="Sep 26, 2021" text="Lisprocoin is future ?" />
