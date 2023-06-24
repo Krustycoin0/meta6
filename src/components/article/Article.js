@@ -12,7 +12,7 @@ const Article = ({ imgUrl, date, text }) => {
           <p>{date}</p>
           <h3>{text}</h3>
         </div>
-        <p  onClick={() => window.location = 'https://link.medium.com/qwAxS8ytTAb'}>View</p>
+        <p  onClick={() => window.location = 'https://medium.com/@cryptolisprocoin/lisprocoin-on-metaverse-daaf76ef056b'}>View</p>
       </div>
   </div>
   );
