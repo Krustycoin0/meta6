@@ -10,7 +10,7 @@ const WhatGPT3 = () => {
           </div>
           <div className="gpt3__whatgpt3-heading">
             <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-            <p  onClick={() => window.location = 'https://medium.com/building-the-metaverse/tagged/metaverse'}>Explore the Library</p>
+            <p  onClick={() => window.location = 'https://medium.com/@cryptolisprocoin/lisprocoin-on-metaverse-daaf76ef056b'}>Explore the Library</p>
           </div>
           <div className="gpt3__whatgpt3-container">
             <Feature title="Axie Infinity Boom" text="Games like Axie show why tech titans are gravitating toward the concept: The metaverse and its possibilities have the potential to upend not just how we work, earn and spend, but also the fundamental ways in which we live, plan and run our lives. In essence, they promise to transform the way capitalism functions." />
