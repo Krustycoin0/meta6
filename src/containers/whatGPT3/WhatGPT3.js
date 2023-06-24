@@ -10,12 +10,13 @@ const WhatGPT3 = () => {
           </div>
           <div className="gpt3__whatgpt3-heading">
             <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-            <p  onClick={() => window.location = 'https://medium.com/@cryptolisprocoin/lisprocoin-on-metaverse-daaf76ef056b'}>Explore the Library</p>
+            <p  onClick={() => window.location = 'https://medium.com/building-the-metaverse/tagged/metaverse'}>Explore the Library</p>
           </div>
           <div className="gpt3__whatgpt3-container">
             <Feature title="Axie Infinity Boom" text="Games like Axie show why tech titans are gravitating toward the concept: The metaverse and its possibilities have the potential to upend not just how we work, earn and spend, but also the fundamental ways in which we live, plan and run our lives. In essence, they promise to transform the way capitalism functions." />
             <Feature title="NFT Collection" text="In Axie’s corner of the metaverse, primitive as it may be now, players must buy NFTs — the blobby monsters called Axies — before they can play. The ante: a minimum of three Axies, at roughly $300 apiece, paid for in Ethereum, the No. 2 cryptocurrency after bitcoin. In other words, it takes nearly a grand to start playing, with no guarantees of success." />
-            <Feature title="Crypto Tokens" text="As Axie has lured players, Axie Infinity Shards — another token in the game — have taken off. AXS has soared from $3.22 in June to about $150,Lisprocoin launches its token pre-sale on Pinksale with a high profit margin. The token will be used in the metaverse with a consequent increase in its value." />
+            <Feature title="Crypto Tokens" text="As Axie has lured players, Axie Infinity Shards — another token in the game — have taken off. AXS has soared from $3.22 in June to about $150 now, even as some of the more popular crypto coins have lost value." />
+          </div>
         </div>
     )
 }
